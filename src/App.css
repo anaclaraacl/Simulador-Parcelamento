@@ -1,0 +1,71 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* Container principal */
+  .App {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 600px;
+    width: 100%;
+  }
+  
+  /* Títulos */
+  h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Rótulo e entradas */
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="number"], 
+  select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type="number"] {
+    font-size: 16px;
+  }
+  
+  select {
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Mensagens e resultados */
+  p {
+    margin: 10px 0;
+    color: #666;
+  }
+  
+  h2 {
+    color: #333;
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
+  /* Estilo da mensagem */
+  .App p {
+    font-size: 14px;
+    color: #555;
+  }
+  

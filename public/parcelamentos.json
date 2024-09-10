@@ -1,0 +1,10 @@
+{
+  "parcelamentos": [
+    { "valor_compra": 1000.00, "numero_parcelas": 12, "taxa_juros_mensal": 2 },
+    { "valor_compra": 500.00, "numero_parcelas": 6, "taxa_juros_mensal": 1.5 },
+    { "valor_compra": 1500.00, "numero_parcelas": 24, "taxa_juros_mensal": 1.8 },
+    { "valor_compra": 200.00, "numero_parcelas": 3, "taxa_juros_mensal": 2.5 },
+    { "valor_compra": 2500.00, "numero_parcelas": 18, "taxa_juros_mensal": 2.2 }
+  ]
+}
+
